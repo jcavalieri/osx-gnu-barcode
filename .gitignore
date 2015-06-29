@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+config.*
+libtool
+*.Plo
+*.Po
+Makefile
+stamp-h1
+Makefile.in
+POTFILES
